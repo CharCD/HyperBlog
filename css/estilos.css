@@ -1,11 +1,20 @@
 body{
-    color: deeppink;
-    text-align: center;
+    color: deeppink;    
     font-family: Arial, Helvetica, sans-serif;
 }
 #container{
     width: 70%;
-    padding: 1em;
+    
+    text-align: center;
     margin: 0 auto;
     border: 1px coral solid;
+}
+
+#cabecera{
+    background-color: palevioletred;
+    color: papayawhip;
+    margin-top: 0;
+    text-align: left;
+    padding-top: 0;
+    
 }
